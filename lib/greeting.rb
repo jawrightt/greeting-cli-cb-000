@@ -4,4 +4,4 @@ def greeting (name)
 end
 greeting ("Bobby")
 greeting ("Sally")
-greeting (" Sally \t   ")
+greeting (" Sally\t   ")
